@@ -4,8 +4,16 @@
     padding: 1;
 }
 
-
-
+.center-heading 
+{
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin value as desired */
+    margin-top: 20px; /* Adjust the margin value as desired */
+  border: 2px solid red; /* Set the border width and color */
+  padding: 10px; /* Add padding inside the border */
+  background-color: #f0f0f0; /* Set the background color */
+  color:black; 
+}
 
 body
 {
